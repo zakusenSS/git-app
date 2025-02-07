@@ -67,8 +67,3 @@ group :test do
   gem "selenium-webdriver"
 end
 
-<<<<<<< HEAD
-=======
-gem 'devise'
-gem 'pry-rails'
->>>>>>> cdf0ab6e7a97f8cc106f58fd400fbe36116ec8e6
